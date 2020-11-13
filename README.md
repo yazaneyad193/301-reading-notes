@@ -6,7 +6,7 @@ In this website, you can find all of my Code 301 reading notes.
 
 | Read # | Link |
 |------|------|
-| Read 1 | [Link 1]() |
+| Read 1 | [Link 1](read-01.md) |
 | Read 2 | [Link 2]() |
 | Read 3 | [Link 3]() |
 | Read 4 | [Link 4]() |
