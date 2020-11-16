@@ -8,7 +8,7 @@ In this website, you can find all of my Code 301 reading notes.
 |------|------|
 | Read 1 | [Link 1](read-01.md) |
 | Read 2 | [Link 2](read-02.md) |
-| Read 3 | [Link 3]() |
+| Read 3 | [Link 3](read-03.md) |
 | Read 4 | [Link 4]() |
 | Read 5 | [Link 5]() |
 | Read 6 | [Link 6]() |
