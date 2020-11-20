@@ -11,7 +11,7 @@ In this website, you can find all of my Code 301 reading notes.
 | Read 3 | [Link 3](read-03.md) |
 | Read 4 | [Link 4](read-04.md) |
 | Read 5 | [Link 5](read-05.md) |
-| Read 6 | [Link 6]() |
+| Read 6 | [Link 6](read-06.md) |
 | Read 7 | [Link 7]() |
 | Read 8 | [Link 8]() |
 | Read 9 | [Link 9]() |
