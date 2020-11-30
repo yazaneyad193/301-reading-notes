@@ -18,6 +18,6 @@ In this website, you can find all of my Code 301 reading notes.
 | Read 10 | [Link 10](read-10.md) |
 | Read 11 | [Link 11](read-11.md) |
 | Read 12 | [Link 12](read-12.md) |
-| Read 13 | [Link 13]() |
+| Read 13 | [Link 13](read-13.md) |
 | Read 14 | [Link 14]() |
 | Read 15 | [Link 15]() |
