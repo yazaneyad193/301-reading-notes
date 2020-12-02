@@ -20,4 +20,4 @@ In this website, you can find all of my Code 301 reading notes.
 | Read 12 | [Link 12](read-12.md) |
 | Read 13 | [Link 13](read-13.md) |
 | Read 14 | [Link 14](read-14.md) |
-| Read 15 | [Link 15]() |
+| Read 15 | [Link 15](read-15.md) |
